@@ -1,0 +1,19 @@
+{
+  "name": "tp3todolisttsoopprototype",
+  "version": "1.0.0",
+  "description": "ToDoList app with TypeScript and OOP with prototypes.",
+  "license": "ISC",
+  "author": "Fernandez Valentina Sofia",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "typescript": "^7.0.2"
+  }
+}
